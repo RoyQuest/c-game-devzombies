@@ -1,0 +1,11 @@
+for this project , I used the following resources:
+when I was stuck on the code, I used the help of copilot to give me some hints and feedback on the code:
+https://github.com
+i also use the help of chat gpt only to create images, and to edit images
+for the idea of the game i inspiration from Left4Dead and Project Zomboid
+only assets i used that i didnt created:
+https://www.citypng.com/photo/5981/hd-brimstone-agent-valorant-character-png
+https://www.gettyimages.com/detail/video/game-over-text-animation-with-alpha-channel-4k-stock-footage/1325433246?adppopup=true
+music:
+https://pixabay.com/music/build-up-scenes-apocalypse-128378/
+
